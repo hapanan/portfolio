@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+}
+
+.link-header {
+    color: black;
+    text-decoration: none;
+    margin-left: 120px;
+    font-size: 19px;
+}
+
+.link-header:hover {
+    transition: 0.4s;
+    border-bottom: 2px solid orangered;
+}
+
+header h1 {
+    text-align: center;
+}
+
+main ul {
+    margin-left: 230px;
+}
+
+main img {
+    margin-left: 150px;
+}
