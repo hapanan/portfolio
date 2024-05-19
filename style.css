@@ -16,6 +16,10 @@ body {
     border-bottom: 2px solid orangered;
 }
 
+header h1 {
+   text-align: centr;
+}
+
 main {
-    text-align: centr;
+    margin-left: 500px;
 }
