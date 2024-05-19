@@ -16,14 +16,6 @@ body {
     border-bottom: 2px solid orangered;
 }
 
-header h1 {
-    text-align: center;
-}
-
-main ul {
-    margin-left: 40%;
-}
-
-main img {
-    margin-left: 35%;
+main {
+    text-align: centr;
 }
